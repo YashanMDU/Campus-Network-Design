@@ -2,6 +2,8 @@
 
 A comprehensive network infrastructure project for **GoldenWings University**, designed and implemented using **Cisco Packet Tracer**. This project simulates a real-world, enterprise-grade network environment across a multi-building university campus, with secure routing, VLAN segmentation, and scalability in mind.
 
+<img width="1142" alt="Diagram" src="https://github.com/user-attachments/assets/0126c7a7-327e-4656-ab06-fbb51de76d0a" />
+
 ---
 
 ##  Project Overview
@@ -70,7 +72,20 @@ This repository features a complete dual-campus network design tailored for Gold
 - Packet Tracer project file 
 - Network design documentation
 - IP and Subnet Plan 
-- Connectivity testing results  
+- Connectivity testing results
+
+ <img width="1435" alt="Cloud_Server_Ping" src="https://github.com/user-attachments/assets/0ee28754-fcf6-4118-940a-b1b3f238e61a" />
+
+<img width="1428" alt="End_Devices_Ping" src="https://github.com/user-attachments/assets/90c600d7-1ee7-4629-80d5-b099d55b791d" />
+
+<img width="1439" alt="CDP_Neighbors" src="https://github.com/user-attachments/assets/0e214b97-9639-4c9f-8130-6a8636df8baf" />
+
+<img width="1076" alt="FTP_Server_Access" src="https://github.com/user-attachments/assets/5b80250b-bb65-4577-a3f8-268fd42f88ef" />
+
+<img width="1419" alt="Web_Server_Access" src="https://github.com/user-attachments/assets/fb73553f-6f84-4b37-938b-c44c4a19dae4" />
+
+<img width="929" alt="Port_Security" src="https://github.com/user-attachments/assets/709a82b9-848b-407d-b7dc-1bb2b925e184" />
+
 
 ---
 
