@@ -74,16 +74,22 @@ This repository features a complete dual-campus network design tailored for Gold
 - IP and Subnet Plan 
 - Connectivity testing results
 
+# Cloud_Server_Ping
  <img width="1435" alt="Cloud_Server_Ping" src="https://github.com/user-attachments/assets/0ee28754-fcf6-4118-940a-b1b3f238e61a" />
-
+ 
+# End_Devices_Ping
 <img width="1428" alt="End_Devices_Ping" src="https://github.com/user-attachments/assets/90c600d7-1ee7-4629-80d5-b099d55b791d" />
 
+# CDP_Neighbors
 <img width="1439" alt="CDP_Neighbors" src="https://github.com/user-attachments/assets/0e214b97-9639-4c9f-8130-6a8636df8baf" />
 
+# FTP_Server_Access
 <img width="1076" alt="FTP_Server_Access" src="https://github.com/user-attachments/assets/5b80250b-bb65-4577-a3f8-268fd42f88ef" />
 
+# Web_Server_Access
 <img width="1419" alt="Web_Server_Access" src="https://github.com/user-attachments/assets/fb73553f-6f84-4b37-938b-c44c4a19dae4" />
 
+# Port_Security
 <img width="929" alt="Port_Security" src="https://github.com/user-attachments/assets/709a82b9-848b-407d-b7dc-1bb2b925e184" />
 
 
