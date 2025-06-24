@@ -36,7 +36,7 @@ This repository features a complete dual-campus network design tailored for Gold
 - **Switch Security**: Prevents unauthorized access at port level (Port Security Implemented)
 - **Scalable Topology**: Designed for modular expansion
 
-### 🧩 Network Components
+###  Network Components
 - VLAN-enabled Core and Access Switches
 - Layer 3 Routing Between Departments
 - Packet Tracer-based Connectivity Testing
@@ -44,7 +44,7 @@ This repository features a complete dual-campus network design tailored for Gold
 
 ---
 
-## 📋 Requirements Fulfilled
+##  Requirements Fulfilled
 
 - ✅ Multi-building campus network  
 - ✅ IP segmentation by department  
@@ -56,7 +56,7 @@ This repository features a complete dual-campus network design tailored for Gold
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Cisco Packet Tracer** – Network simulation
 - **Routing Protocols** – RIPv2, Static Routes
@@ -65,7 +65,7 @@ This repository features a complete dual-campus network design tailored for Gold
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 - Packet Tracer project file 
 - Network design documentation
@@ -74,7 +74,7 @@ This repository features a complete dual-campus network design tailored for Gold
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, the following skills and knowledge areas are demonstrated:
 
